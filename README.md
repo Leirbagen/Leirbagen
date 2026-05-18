@@ -1,16 +1,20 @@
-## Hi there 👋
+## Gabriel Molina
 
-<!--
-**Leirbagen/Leirbagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game Developer (Unity, JavaScript, HTML) |  Technical Artist (Blender, Cinema4d, Figma) | Sucre, Bolivia 
 
-Here are some ideas to get you started:
+<p align="left"
+img src="https://komarev.com/ghpvc/?username=Leirbagen" alt="profile views"
+p/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align-¨left">
+</p>
+
+## About me 
+
+Dual-degree student in Computer Science and Digital Design & Animation, with a strong background in Object-Oriented Programming (C#, JavaScript) and UX/UI. Passionate about gaming and building interactive mechanics in Unity. I am eager to bring my technical skills to a Game Developer role while learning industry-standard workflows.
+
+## Tech Stack
+
+### Game Development
+
+
