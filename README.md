@@ -60,3 +60,12 @@ Dual-degree student in Computer Science and Digital Design & Animation, with a s
 * Applied core usability (UX) and responsive design (UI) principles.
 * Ensured intuitive navigation and an accessibility-focused user experience.
 
+<p align-¨left">
+</p>
+
+## Contact
+
+Linkedln : https://www.linkedin.com/in/gabriel-molina-119a0240b/
+Email: gabrielmol755fal@gmail.com
+
+
