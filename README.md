@@ -18,7 +18,7 @@ Dual-degree student in Computer Science and Digital Design & Animation, with a s
 ### Game Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,js,html,python,blender" />
+  <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,js,html,python,blender,figma" />
 </p>
 
 
