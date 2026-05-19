@@ -18,10 +18,22 @@ Dual-degree student in Computer Science and Digital Design & Animation, with a s
 ### Game Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,js,html,python,blender,figma" />
+  <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,js,html,blender,figma" />
 </p>
+
+
+###  Technical Art & UX/UI
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,blender,toonboom" />
+</p>
+
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlserver" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### Tools & OS
+<p>
+  <img src="https://skillicons.dev/icons?i=github,linux" />
 </p>
