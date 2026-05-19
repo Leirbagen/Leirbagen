@@ -15,6 +15,10 @@ Dual-degree student in Computer Science and Digital Design & Animation, with a s
 
 ## Tech Stack
 
+## Programming Languages
+
+ <img src="https://skillicons.dev/icons?i=cs,cpp,js,python" />
+
 ### Game Development
 
 <p>
@@ -35,7 +39,7 @@ Dual-degree student in Computer Science and Digital Design & Animation, with a s
 
 ### Tools & OS
 <p>
-  <img src="https://skillicons.dev/icons?i=github,linux,windows,macOs" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,visualstudiocode,github,linux,windows" />
 </p>
 
 <p align-¨left">
