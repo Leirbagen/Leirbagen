@@ -44,9 +44,9 @@ Dual-degree student in Computer Science and Digital Design & Animation, with a s
 ## Projects 
 
 **Feel The Rock** — Lead Developer (2025)
-* Led end-to-end development of a Guitar Hero-style 3D game using Unity and C#.
+* Led end-to-end development of a Guitar Hero-style 2D game using Unity and C#.
 * Architected core gameplay mechanics and component-based project structure.
-* Managed physics, scene structuring, and seamless integration of scripts and 3D assets.
+* Managed physics, scene structuring, and seamless integration of scripts and 2D assets.
 
 
 **Skyfall** — Game Developer (2024)
