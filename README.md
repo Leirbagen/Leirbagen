@@ -11,7 +11,7 @@ p/>
 
 ## About me 
 
-Dual-degree student in Computer Science and Digital Design & Animation, with a strong background in Object-Oriented Programming (C#, JavaScript) and UX/UI. Passionate about gaming and building interactive mechanics in Unity. I am eager to bring my technical skills to a Game Developer role while learning industry-standard workflows.
+Dual-degree student in Computer Science and Digital Design & Animation, with a strong background in Software Engineering, Object-Oriented Programming (C#, C++, JavaScript, Python) and UX/UI. Passionate about gaming and building interactive mechanics in Unity while continuously expanding my tech stack. I am eager to bring my versatile skills to a Game Developer or Software Engineer role, mastering industry-standard workflows
 
 ## Tech Stack
 
@@ -21,4 +21,7 @@ Dual-degree student in Computer Science and Digital Design & Animation, with a s
   <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,js,html,python,blender,figma" />
 </p>
 
-
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlserver" />
+</p>
