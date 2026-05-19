@@ -66,6 +66,7 @@ Dual-degree student in Computer Science and Digital Design & Animation, with a s
 ## Contact
 
 Linkedln : https://www.linkedin.com/in/gabriel-molina-119a0240b/
+
 Email: gabrielmol755fal@gmail.com
 
 
