@@ -39,7 +39,7 @@ Dual-degree student in Computer Science and Digital Design & Animation, with a s
 
 ### Tools & OS
 <p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,visualstudiocode,github,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,linux,windows" />
 </p>
 
 <p align-¨left">
