@@ -1,6 +1,6 @@
 ## Gabriel Molina
 
-Game Developer (Unity, JavaScript, HTML) |  Technical Artist (Blender, Cinema4d, Figma) | Sucre, Bolivia 
+Game Developer (Unity, JavaScript, HTML) |  Technical Artist (Blender, Figma) | Sucre, Bolivia 
 
 <p align="left"
 img src="https://komarev.com/ghpvc/?username=Leirbagen" alt="profile views"
